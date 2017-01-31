@@ -1,0 +1,15 @@
+D:\Softwareengineering\hotel\Source\Plugins\Nop.Plugin.Misc.PictureImporter\obj\Debug\Nop.Plugin.Misc.PictureImporter.csprojResolveAssemblyReference.cache
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.PictureImporter\Description.txt
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.PictureImporter\logo.jpg
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.PictureImporter\Views\PictureImporter\Configure.cshtml
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.PictureImporter\Views\PictureImporter\Index.cshtml
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.PictureImporter\Views\PictureImporter\Edit.cshtml
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.PictureImporter\Views\PictureImporter\Done.cshtml
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.PictureImporter\web.config
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.PictureImporter\Nop.Plugin.Misc.PictureImporter.dll.config
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.PictureImporter\Nop.Plugin.Misc.PictureImporter.dll
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.PictureImporter\Nop.Plugin.Misc.PictureImporter.pdb
+D:\Softwareengineering\hotel\Source\Plugins\Nop.Plugin.Misc.PictureImporter\obj\Debug\Nop.Plugin.Misc.PictureImporter.dll
+D:\Softwareengineering\hotel\Source\Plugins\Nop.Plugin.Misc.PictureImporter\obj\Debug\Nop.Plugin.Misc.PictureImporter.pdb
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.PictureImporter\AutoMapper.Net4.dll
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.PictureImporter\App.config

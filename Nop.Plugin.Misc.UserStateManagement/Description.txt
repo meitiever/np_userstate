@@ -1,0 +1,8 @@
+﻿Group: User State Management
+FriendlyName: UserStateManagement
+SystemName: Misc.UserStateManagement
+Version: 1.0
+SupportedVersions: 3.60
+Author: Steve
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.UserStateManagement.dll

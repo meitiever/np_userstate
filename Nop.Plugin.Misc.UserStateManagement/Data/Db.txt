@@ -1,0 +1,32 @@
+﻿  insert into [NopDB].[dbo].[LocaleStringResource] (LanguageId, ResourceName, ResourceValue)
+  values(2,N'admin.orders.fields.orderitemcount',N'参与的活动数')
+
+  insert into [NopDB].[dbo].[LocaleStringResource] (LanguageId, ResourceName, ResourceValue)
+  values(2,N'admin.catalog.products.fields.eventstatus',N'活动状态')
+
+  insert into [NopDB].[dbo].[LocaleStringResource] (LanguageId, ResourceName, ResourceValue)
+  values(2,N'Enums.Nop.Plugin.Misc.OrderSelector.Domain.EventStatus.Assigned',N'已筛选')
+
+  insert into [NopDB].[dbo].[LocaleStringResource] (LanguageId, ResourceName, ResourceValue)
+  values(2,N'Enums.Nop.Plugin.Misc.OrderSelector.Domain.EventStatus.NotYetAssigned',N'未筛选')
+
+  insert into [NopDB].[dbo].[LocaleStringResource] (LanguageId, ResourceName, ResourceValue)
+  values(2,N'Enums.Nop.Plugin.Misc.OrderSelector.Domain.EventStatus.NotFound',N'未找到')
+
+    insert into [NopDB].[dbo].[LocaleStringResource] (LanguageId, ResourceName, ResourceValue)
+  values(2,N'admin.catalog.products.fields.applied',N'报名总人数')
+
+      insert into [NopDB].[dbo].[LocaleStringResource] (LanguageId, ResourceName, ResourceValue)
+  values(2,N'Nop.Plugin.Misc.OrderSelector',N'报名筛选')
+
+        insert into [NopDB].[dbo].[LocaleStringResource] (LanguageId, ResourceName, ResourceValue)
+  values(1,N'Nop.Plugin.Misc.OrderSelector',N'Order Select')
+
+          insert into [NopDB].[dbo].[LocaleStringResource] (LanguageId, ResourceName, ResourceValue)
+  values(2,N'Nop.Plugin.Misc.OrderSelector.PerviewResult',N'预览结果')
+
+  insert into [NopDB].[dbo].[LocaleStringResource] (LanguageId, ResourceName, ResourceValue)
+  values(2,N'Nop.Plugin.Misc.OrderSelector.Result',N'结果')
+
+    insert into [NopDB].[dbo].[LocaleStringResource] (LanguageId, ResourceName, ResourceValue)
+  values(2,N'Nop.Plugin.Misc.OrderSelector.Candidate',N'候选名单')

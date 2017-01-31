@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Sequence>
+  <Step Index="0" InnerState="Create" CanBack="false" CanStop="false" IsTerminal="false">
+    Create
+  </Step>
+  <Step Index="1" InnerState="Create" CanBack="true" CanStop="true" IsTerminal="false">
+    Approval
+  </Step>
+  <Step Index="2" InnerState="Create" CanBack="true" CanStop="true" IsTerminal="false">
+    Invest
+  </Step>
+  <Step Index="3" InnerState="Create" CanBack="true" CanStop="true" IsTerminal="false">
+    Decision
+  </Step>
+  <Step Index="4" InnerState="Create" CanBack="true"  CanStop="true" IsTerminal="false">
+    Management
+  </Step>
+  <Step Index="5" InnerState="Create" CanBack="false" CanStop="false" IsTerminal="true">
+    Quite
+  </Step>
+  <Step Index="6" InnerState="Create" CanBack="false" CanStop="false" IsTerminal="true">
+    End
+  </Step>
+</Sequence>

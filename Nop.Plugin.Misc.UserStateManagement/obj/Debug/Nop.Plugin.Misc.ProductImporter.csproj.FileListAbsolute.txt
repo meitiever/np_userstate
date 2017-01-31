@@ -1,0 +1,13 @@
+D:\Softwareengineering\hotel\Source\Plugins\Nop.Plugin.Misc.ProductImporter\obj\Debug\Nop.Plugin.Misc.ProductImporter.csprojResolveAssemblyReference.cache
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.ProductImporter\Description.txt
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.ProductImporter\logo.jpg
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.ProductImporter\Views\ProductImporter\Configure.cshtml
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.ProductImporter\Views\ProductImporter\Index.cshtml
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.ProductImporter\Views\ProductImporter\Edit.cshtml
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.ProductImporter\Views\ProductImporter\Done.cshtml
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.ProductImporter\web.config
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.ProductImporter\Nop.Plugin.Misc.ProductImporter.dll.config
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.ProductImporter\Nop.Plugin.Misc.ProductImporter.dll
+D:\Softwareengineering\hotel\Source\Presentation\Nop.Web\Plugins\Misc.ProductImporter\Nop.Plugin.Misc.ProductImporter.pdb
+D:\Softwareengineering\hotel\Source\Plugins\Nop.Plugin.Misc.ProductImporter\obj\Debug\Nop.Plugin.Misc.ProductImporter.dll
+D:\Softwareengineering\hotel\Source\Plugins\Nop.Plugin.Misc.ProductImporter\obj\Debug\Nop.Plugin.Misc.ProductImporter.pdb
